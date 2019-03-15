@@ -3,8 +3,8 @@
 "pageListHeight" : 153,
 "cloudShare" : {
 "owner" : {
-"id" : "8ce4f5bf-1999-4db7-ae39-471cac1aae85",
 "hasAvatar" : 0,
+"id" : "8ce4f5bf-1999-4db7-ae39-471cac1aae85",
 "updatedAt" : "2019-03-15T16:36:22.514Z",
 "name" : "Walter",
 "createdAt" : "2019-03-15T16:36:22.514Z"
@@ -23,13 +23,13 @@
 "scrollOrigin" : "{242.87308897254016, 712.64731292020167}",
 "zoomValue" : 2.5026971371675071
 },
-"77B93F80-0840-4E26-840C-393C4FDE21FD" : {
-"scrollOrigin" : "{-215, 485}",
-"zoomValue" : 0.53113728464457377
-},
 "71C38F79-1C8D-42BF-8234-595EB381B35F" : {
 "scrollOrigin" : "{0, 0}",
 "zoomValue" : 1
+},
+"77B93F80-0840-4E26-840C-393C4FDE21FD" : {
+"scrollOrigin" : "{-215, 485}",
+"zoomValue" : 0.60792979949659331
 },
 "E430A8B7-5FE1-4DE0-9AA1-40E3C1E95C49" : {
 "scrollOrigin" : "{-683, -26}",

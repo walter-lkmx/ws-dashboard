@@ -31,14 +31,13 @@
 },
 "version" : 116,
 "fonts" : [
+"Avenir-Heavy",
 "Avenir-Light",
-"Avenir-Book",
-"Oswald-Bold",
-"Avenir-Heavy"
+"Avenir-Book"
 ],
 "compatibilityVersion" : 99,
 "app" : "com.bohemiancoding.sketch3",
-"autosaved" : 0,
+"autosaved" : 1,
 "variant" : "NONAPPSTORE",
 "created" : {
 "build" : 72643,
