@@ -7,18 +7,18 @@
 "_class" : "style",
 "borders" : [
 {
-"position" : 1,
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"thickness" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-}
+},
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"thickness" : 1
 }
 ],
 "shadows" : [
@@ -43,7 +43,7 @@
 "isEnabled" : true
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -64,7 +64,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "BG"
@@ -72,6 +72,8 @@
 {
 "do_objectID" : "B1F79B5D-387C-4E6A-A414-30D73AC22327",
 "value" : {
+"windingRule" : 0,
+"endMarkerType" : 0,
 "_class" : "style",
 "fills" : [
 {
@@ -92,9 +94,7 @@
 }
 ],
 "startMarkerType" : 0,
-"miterLimit" : 10,
-"windingRule" : 0,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "blue-light"
@@ -102,6 +102,8 @@
 {
 "do_objectID" : "2D34091A-1C71-414F-9B6E-E582373A45B7",
 "value" : {
+"windingRule" : 0,
+"endMarkerType" : 0,
 "_class" : "style",
 "fills" : [
 {
@@ -122,9 +124,7 @@
 }
 ],
 "startMarkerType" : 0,
-"miterLimit" : 10,
-"windingRule" : 0,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "yellow"
@@ -132,6 +132,8 @@
 {
 "do_objectID" : "3A8D9F72-E4B6-47AE-9C14-029B73656E2B",
 "value" : {
+"windingRule" : 0,
+"endMarkerType" : 0,
 "_class" : "style",
 "fills" : [
 {
@@ -152,9 +154,7 @@
 }
 ],
 "startMarkerType" : 0,
-"miterLimit" : 10,
-"windingRule" : 0,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "pink"
@@ -165,21 +165,21 @@
 "_class" : "style",
 "borders" : [
 {
-"position" : 1,
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"thickness" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-}
+},
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"thickness" : 1
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -200,7 +200,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "ws-purple"
@@ -211,21 +211,21 @@
 "_class" : "style",
 "borders" : [
 {
-"position" : 1,
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"thickness" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-}
+},
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"thickness" : 1
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -246,7 +246,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "green"
@@ -257,21 +257,21 @@
 "_class" : "style",
 "borders" : [
 {
-"position" : 1,
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"thickness" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-}
+},
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"thickness" : 1
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -292,7 +292,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "pink-light"
@@ -303,21 +303,21 @@
 "_class" : "style",
 "borders" : [
 {
-"position" : 1,
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"thickness" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-}
+},
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"thickness" : 1
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -369,7 +369,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "blue gradient"
@@ -377,6 +377,8 @@
 {
 "do_objectID" : "945B7A2B-36B6-49AE-98E8-AFD18081D251",
 "value" : {
+"windingRule" : 1,
+"endMarkerType" : 0,
 "_class" : "style",
 "fills" : [
 {
@@ -428,9 +430,7 @@
 }
 ],
 "startMarkerType" : 0,
-"miterLimit" : 10,
-"windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "green gradient"
@@ -501,7 +501,7 @@
 "isEnabled" : true
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -522,7 +522,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/6"
@@ -593,7 +593,7 @@
 "isEnabled" : true
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -614,7 +614,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/4"
@@ -685,7 +685,7 @@
 "isEnabled" : true
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -706,7 +706,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/2"
@@ -777,7 +777,7 @@
 "isEnabled" : true
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -798,7 +798,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/3"
@@ -869,7 +869,7 @@
 "isEnabled" : true
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -890,7 +890,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/24"
@@ -961,7 +961,7 @@
 "isEnabled" : true
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -982,7 +982,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/1"
@@ -1053,7 +1053,7 @@
 "isEnabled" : true
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -1074,7 +1074,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/8"
@@ -1145,7 +1145,7 @@
 "isEnabled" : true
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -1166,7 +1166,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/9"
@@ -1237,7 +1237,7 @@
 "isEnabled" : true
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -1258,7 +1258,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/[object Object]"
@@ -1329,7 +1329,7 @@
 "isEnabled" : true
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -1350,7 +1350,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/16"
@@ -1421,7 +1421,7 @@
 "isEnabled" : true
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -1442,7 +1442,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/10"

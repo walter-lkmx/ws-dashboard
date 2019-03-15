@@ -60199,11 +60199,11 @@
 {
 "_class" : "fill",
 "color" : {
-"red" : 0.91250566123188404,
+"red" : 0.93725490196078431,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.91250566123188404,
-"green" : 0.91250566123188404
+"blue" : 0.95686274509803915,
+"green" : 0.93725490196078431
 },
 "patternTileScale" : 1,
 "fillType" : 0,
@@ -64590,7 +64590,7 @@
 "y" : 647,
 "_class" : "rect",
 "constrainProportions" : false,
-"height" : 102,
+"height" : 116,
 "width" : 554
 },
 "do_objectID" : "B19A2CA4-C64F-46E1-9410-39C6B04A3A90",
@@ -64893,7 +64893,7 @@
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
 "name" : "Avenir-Heavy",
-"size" : 19
+"size" : 29
 },
 "_class" : "fontDescriptor"
 },
@@ -64914,14 +64914,14 @@
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{9, 4}, {123, 17}}",
+"glyphBounds" : "{{19, 6}, {187, 26}}",
 "frame" : {
 "_class" : "rect",
-"height" : 26,
+"height" : 40,
 "constrainProportions" : false,
 "do_objectID" : "B0CF7DF0-67FD-4461-8A56-9E3D12885733",
-"x" : 375,
-"width" : 132,
+"x" : 300,
+"width" : 207,
 "y" : 76
 },
 "do_objectID" : "6F1C5061-D02E-41DF-B21D-3F72750C55E3",
@@ -64966,7 +64966,7 @@
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
 "name" : "Avenir-Heavy",
-"size" : 19
+"size" : 29
 },
 "_class" : "fontDescriptor"
 },
