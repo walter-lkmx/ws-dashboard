@@ -60290,17 +60290,17 @@
 "encodedAttributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "Avenir-Heavy",
+"name" : "Avenir-Light",
 "size" : 16
 },
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.45490196078431372,
+"red" : 0.7803921568627451,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.6588235294117647,
-"green" : 0.36078431372549019
+"blue" : 0.80000000000000004,
+"green" : 0.7803921568627451
 },
 "kerning" : 2.2999999523162842,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -60317,7 +60317,7 @@
 "startMarkerType" : 0,
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{1, 4}, {61, 13}}",
+"glyphBounds" : "{{1, 4}, {59, 13}}",
 "frame" : {
 "x" : 810,
 "y" : 318,
@@ -60354,22 +60354,22 @@
 "attributedString" : {
 "attributes" : [
 {
-"length" : 4,
+"length" : 5,
 "_class" : "stringAttribute",
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "Avenir-Heavy",
+"name" : "Avenir-Light",
 "size" : 16
 },
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.45490196078431372,
+"red" : 0.7803921568627451,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.6588235294117647,
-"green" : 0.36078431372549019
+"blue" : 0.80000000000000004,
+"green" : 0.7803921568627451
 },
 "kerning" : 2.2999999523162842,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -60380,34 +60380,6 @@
 }
 },
 "location" : 0
-},
-{
-"length" : 1,
-"_class" : "stringAttribute",
-"attributes" : {
-"MSAttributedStringFontAttribute" : {
-"attributes" : {
-"name" : "Avenir-Heavy",
-"size" : 16
-},
-"_class" : "fontDescriptor"
-},
-"MSAttributedStringColorAttribute" : {
-"red" : 0.45490196078431372,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0.6588235294117647,
-"green" : 0.36078431372549019
-},
-"kerning" : 0,
-"MSAttributedStringTextTransformAttribute" : 1,
-"textStyleVerticalAlignmentKey" : 0,
-"paragraphStyle" : {
-"_class" : "paragraphStyle",
-"alignment" : 0
-}
-},
-"location" : 4
 }
 ],
 "_class" : "attributedString",
@@ -60435,17 +60407,17 @@
 "encodedAttributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "Avenir-Heavy",
+"name" : "Avenir-Light",
 "size" : 16
 },
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.45490196078431372,
+"red" : 0.7803921568627451,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.6588235294117647,
-"green" : 0.36078431372549019
+"blue" : 0.80000000000000004,
+"green" : 0.7803921568627451
 },
 "kerning" : 2.2999999523162842,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -60458,14 +60430,14 @@
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{1, 4}, {104, 13}}",
+"glyphBounds" : "{{1, 4}, {102, 13}}",
 "frame" : {
 "_class" : "rect",
 "height" : 22,
 "constrainProportions" : false,
 "do_objectID" : "B526D151-1ACA-4422-9D6D-5F3E35B89B3A",
 "x" : 810,
-"width" : 106,
+"width" : 107,
 "y" : 411
 },
 "do_objectID" : "CED57A84-548A-428E-986D-A30F81B52310",
@@ -60497,22 +60469,22 @@
 "attributedString" : {
 "attributes" : [
 {
-"length" : 8,
+"length" : 9,
 "_class" : "stringAttribute",
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "Avenir-Heavy",
+"name" : "Avenir-Light",
 "size" : 16
 },
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.45490196078431372,
+"red" : 0.7803921568627451,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.6588235294117647,
-"green" : 0.36078431372549019
+"blue" : 0.80000000000000004,
+"green" : 0.7803921568627451
 },
 "kerning" : 2.2999999523162842,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -60523,34 +60495,6 @@
 }
 },
 "location" : 0
-},
-{
-"length" : 1,
-"_class" : "stringAttribute",
-"attributes" : {
-"MSAttributedStringFontAttribute" : {
-"attributes" : {
-"name" : "Avenir-Heavy",
-"size" : 16
-},
-"_class" : "fontDescriptor"
-},
-"MSAttributedStringColorAttribute" : {
-"red" : 0.45490196078431372,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0.6588235294117647,
-"green" : 0.36078431372549019
-},
-"kerning" : 0,
-"MSAttributedStringTextTransformAttribute" : 1,
-"textStyleVerticalAlignmentKey" : 0,
-"paragraphStyle" : {
-"_class" : "paragraphStyle",
-"alignment" : 0
-}
-},
-"location" : 8
 }
 ],
 "_class" : "attributedString",
@@ -60578,17 +60522,17 @@
 "encodedAttributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "Avenir-Heavy",
+"name" : "Avenir-Light",
 "size" : 16
 },
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.45490196078431372,
+"red" : 0.7803921568627451,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.6588235294117647,
-"green" : 0.36078431372549019
+"blue" : 0.80000000000000004,
+"green" : 0.7803921568627451
 },
 "kerning" : 2.2999999523162842,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -60601,7 +60545,7 @@
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{0, 4}, {153, 13}}",
+"glyphBounds" : "{{0, 4}, {151, 13}}",
 "frame" : {
 "_class" : "rect",
 "height" : 22,
@@ -60640,22 +60584,22 @@
 "attributedString" : {
 "attributes" : [
 {
-"length" : 12,
+"length" : 13,
 "_class" : "stringAttribute",
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "Avenir-Heavy",
+"name" : "Avenir-Light",
 "size" : 16
 },
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.45490196078431372,
+"red" : 0.7803921568627451,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.6588235294117647,
-"green" : 0.36078431372549019
+"blue" : 0.80000000000000004,
+"green" : 0.7803921568627451
 },
 "kerning" : 2.2999999523162842,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -60666,34 +60610,6 @@
 }
 },
 "location" : 0
-},
-{
-"length" : 1,
-"_class" : "stringAttribute",
-"attributes" : {
-"MSAttributedStringFontAttribute" : {
-"attributes" : {
-"name" : "Avenir-Heavy",
-"size" : 16
-},
-"_class" : "fontDescriptor"
-},
-"MSAttributedStringColorAttribute" : {
-"red" : 0.45490196078431372,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0.6588235294117647,
-"green" : 0.36078431372549019
-},
-"kerning" : 0,
-"MSAttributedStringTextTransformAttribute" : 1,
-"textStyleVerticalAlignmentKey" : 0,
-"paragraphStyle" : {
-"_class" : "paragraphStyle",
-"alignment" : 0
-}
-},
-"location" : 12
 }
 ],
 "_class" : "attributedString",
@@ -60721,17 +60637,17 @@
 "encodedAttributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "Avenir-Heavy",
+"name" : "Avenir-Light",
 "size" : 16
 },
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0,
+"red" : 0.7803921568627451,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0,
-"green" : 0
+"blue" : 0.80000000000000004,
+"green" : 0.7803921568627451
 },
 "kerning" : 2.2999999523162842,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -60744,14 +60660,14 @@
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{0, 4}, {137, 13}}",
+"glyphBounds" : "{{0, 4}, {128, 13}}",
 "frame" : {
 "_class" : "rect",
 "height" : 22,
 "constrainProportions" : false,
 "do_objectID" : "7C2BA061-1187-4109-9DA7-7E249F5FAF09",
 "x" : 810,
-"width" : 138,
+"width" : 132,
 "y" : 504
 },
 "do_objectID" : "3ED644B9-4B3D-47AD-ABFC-1ED046452399",
@@ -60783,22 +60699,22 @@
 "attributedString" : {
 "attributes" : [
 {
-"length" : 11,
+"length" : 12,
 "_class" : "stringAttribute",
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "Avenir-Heavy",
+"name" : "Avenir-Light",
 "size" : 16
 },
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0,
+"red" : 0.7803921568627451,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0,
-"green" : 0
+"blue" : 0.80000000000000004,
+"green" : 0.7803921568627451
 },
 "kerning" : 2.2999999523162842,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -60809,34 +60725,6 @@
 }
 },
 "location" : 0
-},
-{
-"length" : 1,
-"_class" : "stringAttribute",
-"attributes" : {
-"MSAttributedStringFontAttribute" : {
-"attributes" : {
-"name" : "Avenir-Heavy",
-"size" : 16
-},
-"_class" : "fontDescriptor"
-},
-"MSAttributedStringColorAttribute" : {
-"red" : 0,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0,
-"green" : 0
-},
-"kerning" : 0,
-"MSAttributedStringTextTransformAttribute" : 1,
-"textStyleVerticalAlignmentKey" : 0,
-"paragraphStyle" : {
-"_class" : "paragraphStyle",
-"alignment" : 0
-}
-},
-"location" : 11
 }
 ],
 "_class" : "attributedString",
@@ -60864,7 +60752,7 @@
 "encodedAttributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "Avenir-Book",
+"name" : "Avenir-Heavy",
 "size" : 21
 },
 "_class" : "fontDescriptor"
@@ -60887,14 +60775,14 @@
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{2, 5}, {190, 17}}",
+"glyphBounds" : "{{1, 5}, {196, 17}}",
 "frame" : {
 "_class" : "rect",
 "height" : 29,
 "constrainProportions" : false,
 "do_objectID" : "E528E196-62B2-4B73-AEE2-D077CC9DCECF",
 "x" : 810,
-"width" : 196,
+"width" : 202,
 "y" : 348
 },
 "do_objectID" : "CFAD42C2-0434-4B88-BB59-FA4E5AB41AAB",
@@ -60931,7 +60819,7 @@
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "Avenir-Book",
+"name" : "Avenir-Heavy",
 "size" : 21
 },
 "_class" : "fontDescriptor"
@@ -60979,7 +60867,7 @@
 "encodedAttributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "Avenir-Book",
+"name" : "Avenir-Heavy",
 "size" : 21
 },
 "_class" : "fontDescriptor"
@@ -61002,14 +60890,14 @@
 },
 "endMarkerType" : 0
 },
-"glyphBounds" : "{{2, 5}, {250, 19}}",
+"glyphBounds" : "{{1, 5}, {258, 19}}",
 "frame" : {
 "_class" : "rect",
 "height" : 29,
 "constrainProportions" : false,
 "do_objectID" : "175EC50E-D6FA-4CE7-BA39-BD212244BF07",
 "x" : 810,
-"width" : 256,
+"width" : 263,
 "y" : 441
 },
 "do_objectID" : "EA798BE3-A97D-4103-94B4-B92CB7052F87",
@@ -61046,7 +60934,7 @@
 "attributes" : {
 "MSAttributedStringFontAttribute" : {
 "attributes" : {
-"name" : "Avenir-Book",
+"name" : "Avenir-Heavy",
 "size" : 21
 },
 "_class" : "fontDescriptor"
@@ -61350,11 +61238,11 @@
 {
 "_class" : "fill",
 "color" : {
-"red" : 0.45490196078431372,
+"red" : 0,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.6588235294117647,
-"green" : 0.36078431372549019
+"blue" : 0,
+"green" : 0
 },
 "patternTileScale" : 1,
 "fillType" : 0,
@@ -61479,11 +61367,11 @@
 {
 "_class" : "fill",
 "color" : {
-"red" : 0.45490196078431372,
+"red" : 0,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.6588235294117647,
-"green" : 0.36078431372549019
+"blue" : 0,
+"green" : 0
 },
 "patternTileScale" : 1,
 "fillType" : 0,
@@ -63982,11 +63870,11 @@
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.45490196078431372,
+"red" : 0,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.6588235294117647,
-"green" : 0.36078431372549019
+"blue" : 0,
+"green" : 0
 },
 "kerning" : 2.0125000000000002,
 "textStyleVerticalAlignmentKey" : 0,
@@ -64050,11 +63938,11 @@
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.45490196078431372,
+"red" : 0,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.6588235294117647,
-"green" : 0.36078431372549019
+"blue" : 0,
+"green" : 0
 },
 "kerning" : 2.0125000000000002,
 "textStyleVerticalAlignmentKey" : 0,
