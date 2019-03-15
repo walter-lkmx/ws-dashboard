@@ -1,0 +1,1418 @@
+{
+"layerStyles" : {
+"objects" : [
+{
+"do_objectID" : "848C4B98-EC65-40E8-A78D-A3FD65B89AA4",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0.31151737927948181,
+"_class" : "color",
+"alpha" : 0.16256227355072461,
+"blue" : 0.5575042517006803,
+"green" : 0.43766449334163482
+},
+"offsetY" : 18,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 34,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "BG"
+},
+{
+"do_objectID" : "B1F79B5D-387C-4E6A-A414-30D73AC22327",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 0,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.3529411764705882,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.98039215686274506,
+"green" : 0.78431372549019607
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "blue-light"
+},
+{
+"do_objectID" : "2D34091A-1C71-414F-9B6E-E582373A45B7",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 0,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0,
+"green" : 0.80000000000000004
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "yellow"
+},
+{
+"do_objectID" : "3A8D9F72-E4B6-47AE-9C14-029B73656E2B",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 0,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.33333333333333359,
+"green" : 0.17647058823529421
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "pink"
+},
+{
+"do_objectID" : "5A9C2F14-8263-4AE2-95C2-30173E93FA73",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.45490196078431372,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.6588235294117647,
+"green" : 0.36078431372549019
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "ws-purple"
+},
+{
+"do_objectID" : "D753F855-B179-4006-8864-16B8CA94C86D",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.34099447513812159,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.35955801104972368,
+"green" : 0.81900552486187839
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "green"
+},
+{
+"do_objectID" : "361245A5-BC43-4A50-94D9-281C68D4D229",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.87058823529411766,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.52156862745098043,
+"green" : 0.55686274509803924
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "pink-light"
+},
+{
+"do_objectID" : "1F0E5DE7-D32F-4593-9239-5ACD0D8399E6",
+"value" : {
+"_class" : "style",
+"borders" : [
+{
+"thickness" : 1,
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"position" : 1,
+"color" : {
+"red" : 0.59199999999999997,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.59199999999999997,
+"green" : 0.59199999999999997
+}
+}
+],
+"miterLimit" : 10,
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 0.47843137254901968
+},
+"gradient" : {
+"stops" : [
+{
+"color" : {
+"red" : 0.3529411764705882,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.98039215686274506,
+"green" : 0.78431372549019607
+},
+"_class" : "gradientStop",
+"position" : 0
+},
+{
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 0.47843137254901957
+},
+"_class" : "gradientStop",
+"position" : 1
+}
+],
+"gradientType" : 0,
+"to" : "{0, 1}",
+"_class" : "gradient",
+"elipseLength" : 0,
+"from" : "{1, 0.10116552683935512}"
+},
+"fillType" : 1,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"patternTileScale" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "blue gradient"
+},
+{
+"do_objectID" : "945B7A2B-36B6-49AE-98E8-AFD18081D251",
+"value" : {
+"startMarkerType" : 0,
+"windingRule" : 1,
+"_class" : "style",
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 0.84699999999999998,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.84699999999999998,
+"green" : 0.84699999999999998
+},
+"gradient" : {
+"stops" : [
+{
+"color" : {
+"red" : 0.1137254901960785,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.71372549019607845,
+"green" : 0.9137254901960784
+},
+"_class" : "gradientStop",
+"position" : 0
+},
+{
+"color" : {
+"red" : 0.1137254901960785,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.9137254901960784,
+"green" : 0.77051896845694801
+},
+"_class" : "gradientStop",
+"position" : 1
+}
+],
+"gradientType" : 0,
+"to" : "{0, 1}",
+"_class" : "gradient",
+"elipseLength" : 0,
+"from" : "{1, 0}"
+},
+"fillType" : 1,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"patternTileScale" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"miterLimit" : 10,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "green gradient"
+},
+{
+"do_objectID" : "56BD6CFD-9D3C-44ED-A51F-E28FFF78FD8C",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.12,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 1,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 18,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.14000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 6,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 10,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 3,
+"offsetX" : 0,
+"spread" : -1,
+"blurRadius" : 5,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Elevation\/6"
+},
+{
+"do_objectID" : "98D53B85-0C7B-415A-A427-8CA367F3445C",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 2,
+"offsetX" : 0,
+"spread" : -1,
+"blurRadius" : 4,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.12,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 1,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 10,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.14000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 4,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 5,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Elevation\/4"
+},
+{
+"do_objectID" : "D3929A30-2B6A-42D2-998A-36789BB1868F",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 1,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 5,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.12,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 3,
+"offsetX" : 0,
+"spread" : -2,
+"blurRadius" : 1,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.14000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 2,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 2,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Elevation\/2"
+},
+{
+"do_objectID" : "BE00936A-3572-43AA-B705-CE3B20CEBF86",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 1,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 8,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.12,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 3,
+"offsetX" : 0,
+"spread" : -2,
+"blurRadius" : 3,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.14000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 3,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 4,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Elevation\/3"
+},
+{
+"do_objectID" : "C1249C62-AE50-4F43-ADE6-82F6F2BF9C1E",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 11,
+"offsetX" : 0,
+"spread" : -7,
+"blurRadius" : 15,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.12,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 9,
+"offsetX" : 0,
+"spread" : 8,
+"blurRadius" : 46,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.14000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 24,
+"offsetX" : 0,
+"spread" : 3,
+"blurRadius" : 38,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Elevation\/24"
+},
+{
+"do_objectID" : "533FF166-6607-4F08-A2B1-22882D67F7E9",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 1,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 3,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.12,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 2,
+"offsetX" : 0,
+"spread" : -1,
+"blurRadius" : 1,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.14000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 1,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 1,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Elevation\/1"
+},
+{
+"do_objectID" : "CDDBBA45-388D-4DB1-83D5-3C81329C0E70",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.12,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 3,
+"offsetX" : 0,
+"spread" : 2,
+"blurRadius" : 14,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.14000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 8,
+"offsetX" : 0,
+"spread" : 1,
+"blurRadius" : 10,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 5,
+"offsetX" : 0,
+"spread" : -3,
+"blurRadius" : 5,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Elevation\/8"
+},
+{
+"do_objectID" : "BFCB9317-7BBA-4817-91B9-1C639C87B42D",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 5,
+"offsetX" : 0,
+"spread" : -3,
+"blurRadius" : 6,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.12,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 3,
+"offsetX" : 0,
+"spread" : 2,
+"blurRadius" : 16,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.14000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 9,
+"offsetX" : 0,
+"spread" : 1,
+"blurRadius" : 12,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Elevation\/9"
+},
+{
+"do_objectID" : "C3220A90-57D4-4F63-BFBB-55DD808DC9A3",
+"value" : {
+"_class" : "style",
+"miterLimit" : 10,
+"shadows" : [
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.12,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 0,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 0,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.14000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 0,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 0,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+},
+{
+"_class" : "shadow",
+"color" : {
+"red" : 0,
+"_class" : "color",
+"alpha" : 0.20000000000000001,
+"blue" : 0,
+"green" : 0
+},
+"offsetY" : 0,
+"offsetX" : 0,
+"spread" : 0,
+"blurRadius" : 0,
+"contextSettings" : {
+"opacity" : 1,
+"_class" : "graphicsContextSettings",
+"blendMode" : 0
+},
+"isEnabled" : true
+}
+],
+"fills" : [
+{
+"_class" : "fill",
+"color" : {
+"red" : 1,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 1,
+"green" : 1
+},
+"patternTileScale" : 1,
+"fillType" : 0,
+"noiseIntensity" : 0,
+"patternFillType" : 1,
+"noiseIndex" : 0,
+"isEnabled" : true
+}
+],
+"startMarkerType" : 0,
+"windingRule" : 1,
+"endMarkerType" : 0
+},
+"_class" : "sharedStyle",
+"name" : "Elevation\/[object Object]"
+}
+],
+"_class" : "sharedStyleContainer"
+},
+"assets" : {
+"_class" : "assetCollection",
+"colorAssets" : [
+{
+"color" : {
+"red" : 0.45490196078431372,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.6588235294117647,
+"green" : 0.36078431372549019
+},
+"_class" : "MSImmutableColorAsset"
+},
+{
+"color" : {
+"red" : 0.87058823529411766,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.52156862745098043,
+"green" : 0.55686274509803924
+},
+"_class" : "MSImmutableColorAsset"
+},
+{
+"color" : {
+"red" : 0.87058823529411766,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.52156862745098043,
+"green" : 0.55686274509803924
+},
+"_class" : "MSImmutableColorAsset"
+},
+{
+"color" : {
+"red" : 0.63529411764705879,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.80392156862745101,
+"green" : 0.792156862745098
+},
+"_class" : "MSImmutableColorAsset"
+},
+{
+"color" : {
+"red" : 0.31372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.31372549019607843,
+"green" : 0.31372549019607843
+},
+"_class" : "MSImmutableColorAsset"
+}
+],
+"images" : [
+
+],
+"colors" : [
+{
+"red" : 0.45490196078431372,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.6588235294117647,
+"green" : 0.36078431372549019
+},
+{
+"red" : 0.87058823529411766,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.52156862745098043,
+"green" : 0.55686274509803924
+},
+{
+"red" : 0.87058823529411766,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.52156862745098043,
+"green" : 0.55686274509803924
+},
+{
+"red" : 0.63529411764705879,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.80392156862745101,
+"green" : 0.792156862745098
+},
+{
+"red" : 0.31372549019607843,
+"_class" : "color",
+"alpha" : 1,
+"blue" : 0.31372549019607843,
+"green" : 0.31372549019607843
+}
+],
+"gradientAssets" : [
+
+],
+"imageCollection" : {
+"images" : {
+
+},
+"_class" : "imageCollection"
+},
+"gradients" : [
+
+]
+},
+"pages" : [
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/E430A8B7-5FE1-4DE0-9AA1-40E3C1E95C49"
+},
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/77B93F80-0840-4E26-840C-393C4FDE21FD"
+},
+{
+"_ref_class" : "MSImmutablePage",
+"_class" : "MSJSONFileReference",
+"_ref" : "pages\/676C0BE2-B0E2-4005-84CC-95B92E007B02"
+}
+],
+"foreignSymbols" : [
+
+],
+"currentPageIndex" : 1,
+"_class" : "document",
+"foreignLayerStyles" : [
+
+],
+"colorSpace" : 0,
+"layerTextStyles" : {
+"objects" : [
+
+],
+"_class" : "sharedTextStyleContainer"
+},
+"layerSymbols" : {
+"objects" : [
+
+],
+"_class" : "symbolContainer"
+},
+"do_objectID" : "086C3F1B-A4FE-4734-AFF8-F2DD0B7AEFF4",
+"foreignTextStyles" : [
+
+]
+}
