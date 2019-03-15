@@ -1,14 +1,6 @@
 {
 "commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
 "pagesAndArtboards" : {
-"E430A8B7-5FE1-4DE0-9AA1-40E3C1E95C49" : {
-"name" : "Page 1",
-"artboards" : {
-"A273A0DC-141F-49FE-8380-8F4C3C901DD5" : {
-"name" : "ws-dashboard"
-}
-}
-},
 "77B93F80-0840-4E26-840C-393C4FDE21FD" : {
 "name" : "dashboard - desktop",
 "artboards" : {
@@ -23,6 +15,14 @@
 }
 }
 },
+"E430A8B7-5FE1-4DE0-9AA1-40E3C1E95C49" : {
+"name" : "Page 1",
+"artboards" : {
+"A273A0DC-141F-49FE-8380-8F4C3C901DD5" : {
+"name" : "ws-dashboard"
+}
+}
+},
 "676C0BE2-B0E2-4005-84CC-95B92E007B02" : {
 "name" : "Symbols",
 "artboards" : {
@@ -34,13 +34,14 @@
 },
 "version" : 116,
 "fonts" : [
-"Avenir-Heavy",
 "Avenir-Light",
-"Avenir-Book"
+"Avenir-Book",
+"OpenSans-Light",
+"Avenir-Heavy"
 ],
 "compatibilityVersion" : 99,
 "app" : "com.bohemiancoding.sketch3",
-"autosaved" : 0,
+"autosaved" : 1,
 "variant" : "NONAPPSTORE",
 "created" : {
 "build" : 72643,
