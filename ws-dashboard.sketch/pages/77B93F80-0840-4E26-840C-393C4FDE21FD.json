@@ -43618,11 +43618,20 @@
 {
 "isFlippedHorizontal" : false,
 "style" : {
-"windingRule" : 1,
-"do_objectID" : "25EB775A-E7E2-4BA4-B944-B8197CF708F8",
 "_class" : "style",
 "miterLimit" : 10,
+"do_objectID" : "25EB775A-E7E2-4BA4-B944-B8197CF708F8",
+"blur" : {
+"_class" : "blur",
+"center" : "{0.5, 0.5}",
+"radius" : 0,
+"motionAngle" : 0,
+"saturation" : 1,
+"type" : 0,
+"isEnabled" : true
+},
 "startMarkerType" : 0,
+"windingRule" : 1,
 "endMarkerType" : 0
 },
 "rotation" : 0,
@@ -43754,7 +43763,7 @@
 
 ]
 },
-"layerListExpandedType" : 2,
+"layerListExpandedType" : 0,
 "isFlippedVertical" : false,
 "clippingMaskMode" : 0,
 "name" : "pins",
@@ -43795,7 +43804,7 @@
 
 ]
 },
-"layerListExpandedType" : 1,
+"layerListExpandedType" : 0,
 "isFlippedVertical" : false,
 "clippingMaskMode" : 0,
 "name" : "visits",
@@ -51558,11 +51567,11 @@
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.7803921568627451,
+"red" : 0.55686274509803924,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.80000000000000004,
-"green" : 0.7803921568627451
+"blue" : 0.57647058823529407,
+"green" : 0.55686274509803924
 },
 "kerning" : 0,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -51637,11 +51646,11 @@
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.7803921568627451,
+"red" : 0.55686274509803924,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.80000000000000004,
-"green" : 0.7803921568627451
+"blue" : 0.57647058823529407,
+"green" : 0.55686274509803924
 },
 "kerning" : 0,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -51820,11 +51829,11 @@
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.7803921568627451,
+"red" : 0.55686274509803924,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.80000000000000004,
-"green" : 0.7803921568627451
+"blue" : 0.57647058823529407,
+"green" : 0.55686274509803924
 },
 "kerning" : 0,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -51899,11 +51908,11 @@
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.7803921568627451,
+"red" : 0.55686274509803924,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.80000000000000004,
-"green" : 0.7803921568627451
+"blue" : 0.57647058823529407,
+"green" : 0.55686274509803924
 },
 "kerning" : 0,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -52082,11 +52091,11 @@
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.7803921568627451,
+"red" : 0.55686274509803924,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.80000000000000004,
-"green" : 0.7803921568627451
+"blue" : 0.57647058823529407,
+"green" : 0.55686274509803924
 },
 "kerning" : 0,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -52161,11 +52170,11 @@
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.7803921568627451,
+"red" : 0.55686274509803924,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.80000000000000004,
-"green" : 0.7803921568627451
+"blue" : 0.57647058823529407,
+"green" : 0.55686274509803924
 },
 "kerning" : 0,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -52344,11 +52353,11 @@
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.7803921568627451,
+"red" : 0.55686274509803924,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.80000000000000004,
-"green" : 0.7803921568627451
+"blue" : 0.57647058823529407,
+"green" : 0.55686274509803924
 },
 "kerning" : 0,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -52423,11 +52432,11 @@
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.7803921568627451,
+"red" : 0.55686274509803924,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.80000000000000004,
-"green" : 0.7803921568627451
+"blue" : 0.57647058823529407,
+"green" : 0.55686274509803924
 },
 "kerning" : 0,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -52543,18 +52552,18 @@
 {
 "_class" : "fill",
 "color" : {
-"red" : 0.84699999999999998,
+"red" : 0.93725490196078431,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.84699999999999998,
-"green" : 0.84699999999999998
+"blue" : 0.95686274509803915,
+"green" : 0.93725490196078431
 },
 "patternTileScale" : 1,
 "fillType" : 0,
 "noiseIntensity" : 0,
 "patternFillType" : 1,
 "noiseIndex" : 0,
-"isEnabled" : false
+"isEnabled" : true
 }
 ],
 "startMarkerType" : 0,
@@ -52796,7 +52805,7 @@
 
 ]
 },
-"layerListExpandedType" : 2,
+"layerListExpandedType" : 1,
 "isFlippedVertical" : false,
 "clippingMaskMode" : 0,
 "name" : "side",
@@ -57777,11 +57786,11 @@
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.7803921568627451,
+"red" : 0.55686274509803924,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.80000000000000004,
-"green" : 0.7803921568627451
+"blue" : 0.57647058823529407,
+"green" : 0.55686274509803924
 },
 "kerning" : 0,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -57856,11 +57865,11 @@
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.7803921568627451,
+"red" : 0.55686274509803924,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.80000000000000004,
-"green" : 0.7803921568627451
+"blue" : 0.57647058823529407,
+"green" : 0.55686274509803924
 },
 "kerning" : 0,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -58253,11 +58262,11 @@
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.7803921568627451,
+"red" : 0.55686274509803924,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.80000000000000004,
-"green" : 0.7803921568627451
+"blue" : 0.57647058823529407,
+"green" : 0.55686274509803924
 },
 "kerning" : 0,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -58332,11 +58341,11 @@
 "_class" : "fontDescriptor"
 },
 "MSAttributedStringColorAttribute" : {
-"red" : 0.7803921568627451,
+"red" : 0.55686274509803924,
 "_class" : "color",
 "alpha" : 1,
-"blue" : 0.80000000000000004,
-"green" : 0.7803921568627451
+"blue" : 0.57647058823529407,
+"green" : 0.55686274509803924
 },
 "kerning" : 0,
 "MSAttributedStringTextTransformAttribute" : 1,
@@ -58491,7 +58500,7 @@
 {
 "_class" : "fill",
 "color" : {
-"red" : 1,
+ "red" : 1,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.33333333333333359,
@@ -58501,7 +58510,7 @@
 "fillType" : 0,
 "noiseIntensity" : 0,
 "patternFillType" : 1,
-        "noiseIndex" : 0,
+"noiseIndex" : 0,
 "isEnabled" : true
 }
 ],
@@ -60013,7 +60022,7 @@
 "height" : 685,
 "width" : 588
 },
-"do_objectID" : "2D077B34-26DC-421C-B4B0-F756643C9E4B",
+"do_objectID" : "306E9E3E-B5D9-4560-9970-E61CCC4AFDF5",
 "layerListExpandedType" : 0,
 "exportOptions" : {
 "shouldTrim" : false,
@@ -60100,7 +60109,7 @@
 },
 "isFlippedVertical" : false,
 "clippingMaskMode" : 0,
-"name" : "Rectangle",
+"name" : "Rectangle Copy 6",
 "isVisible" : true,
 "hasClippingMask" : false,
 "nameIsFixed" : false,
@@ -60154,130 +60163,6 @@
 "isFixedToViewport" : false,
 "shouldBreakMaskChain" : false,
 "_class" : "rectangle",
-"booleanOperation" : -1,
-"resizingConstraint" : 63
-},
-{
-"isFlippedHorizontal" : false,
-"style" : {
-"_class" : "style",
-"borders" : [
-{
-"thickness" : 2,
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : true,
-"position" : 0,
-"color" : {
-"red" : 0.45490196078431372,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0.6588235294117647,
-"green" : 0.36078431372549019
-}
-}
-],
-"miterLimit" : 10,
-"fills" : [
-{
-"_class" : "fill",
-"color" : {
-"red" : 0.84699999999999998,
-"_class" : "color",
-"alpha" : 1,
-"blue" : 0.84699999999999998,
-"green" : 0.84699999999999998
-},
-"patternTileScale" : 1,
-"fillType" : 0,
-"noiseIntensity" : 0,
-"patternFillType" : 1,
-"noiseIndex" : 0,
-"isEnabled" : false
-}
-],
-"startMarkerType" : 0,
-"windingRule" : 1,
-"endMarkerType" : 0
-},
-"rotation" : 0,
-"frame" : {
-"x" : 675,
-"y" : 601,
-"_class" : "rect",
-"constrainProportions" : true,
-"height" : 38,
-"width" : 38
-},
-"do_objectID" : "52097D6C-13D2-44B1-8618-5EF05FF279D3",
-"layerListExpandedType" : 0,
-"exportOptions" : {
-"shouldTrim" : false,
-"includedLayerIds" : [
-
-],
-"layerOptions" : 0,
-"_class" : "exportOptions",
-"exportFormats" : [
-
-]
-},
-"edited" : false,
-"isFlippedVertical" : false,
-"clippingMaskMode" : 0,
-"name" : "Oval",
-"isVisible" : true,
-"hasClippingMask" : false,
-"nameIsFixed" : false,
-"resizingType" : 0,
-"isClosed" : true,
-"isLocked" : false,
-"points" : [
-{
-"_class" : "curvePoint",
-"curveMode" : 2,
-"hasCurveTo" : true,
-"curveFrom" : "{0.77614237490000004, 1}",
-"point" : "{0.5, 1}",
-"cornerRadius" : 0,
-"curveTo" : "{0.22385762510000001, 1}",
-"hasCurveFrom" : true
-},
-{
-"_class" : "curvePoint",
-"curveMode" : 2,
-"hasCurveTo" : true,
-"curveFrom" : "{1, 0.22385762510000001}",
-"point" : "{1, 0.5}",
-"cornerRadius" : 0,
-"curveTo" : "{1, 0.77614237490000004}",
-"hasCurveFrom" : true
-},
-{
-"_class" : "curvePoint",
-"curveMode" : 2,
-"hasCurveTo" : true,
-"curveFrom" : "{0.22385762510000001, 0}",
-"point" : "{0.5, 0}",
-"cornerRadius" : 0,
-"curveTo" : "{0.77614237490000004, 0}",
-"hasCurveFrom" : true
-},
-{
-"_class" : "curvePoint",
-"curveMode" : 2,
-"hasCurveTo" : true,
-"curveFrom" : "{0, 0.77614237490000004}",
-"point" : "{0, 0.5}",
-"cornerRadius" : 0,
-"curveTo" : "{0, 0.22385762510000001}",
-"hasCurveFrom" : true
-}
-],
-"shouldBreakMaskChain" : false,
-"pointRadiusBehaviour" : 1,
-"isFixedToViewport" : false,
-"_class" : "oval",
 "booleanOperation" : -1,
 "resizingConstraint" : 63
 },

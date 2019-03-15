@@ -1,37 +1,6 @@
 {
 "commit" : "f4e56c65d61efa65dd63fd44515a6e4b855bdd9e",
-"pagesAndArtboards" : {
-"E430A8B7-5FE1-4DE0-9AA1-40E3C1E95C49" : {
-"name" : "Page 1",
-"artboards" : {
-"A273A0DC-141F-49FE-8380-8F4C3C901DD5" : {
-"name" : "ws-dashboard"
-}
-}
-},
-"77B93F80-0840-4E26-840C-393C4FDE21FD" : {
-"name" : "dashboard - desktop",
-"artboards" : {
-"A235B8A6-B75F-4C3C-A2E8-082C2D6181C1" : {
-"name" : "dashboard"
-},
-"F5FFA1EF-4EC9-442B-BD1B-3BFB653A13E1" : {
-"name" : "wsecommerce-S01E02-infopanel"
-},
-"D9958977-171D-4319-BF3F-6D0B1CBF0D27" : {
-"name" : "wsecommerce-S01E02"
-}
-}
-},
-"676C0BE2-B0E2-4005-84CC-95B92E007B02" : {
-"name" : "Symbols",
-"artboards" : {
-"81B9F3BD-E50B-47D2-8A69-7F739234A357" : {
-"name" : "pin"
-}
-}
-}
-},
+"build" : 72643,
 "version" : 116,
 "fonts" : [
 "Avenir-Heavy",
@@ -55,5 +24,36 @@
 "NONAPPSTORE.72643"
 ],
 "appVersion" : "53.2",
-"build" : 72643
+"pagesAndArtboards" : {
+"E430A8B7-5FE1-4DE0-9AA1-40E3C1E95C49" : {
+"name" : "Page 1",
+"artboards" : {
+"A273A0DC-141F-49FE-8380-8F4C3C901DD5" : {
+"name" : "ws-dashboard"
+}
+}
+},
+"676C0BE2-B0E2-4005-84CC-95B92E007B02" : {
+"name" : "Symbols",
+"artboards" : {
+"81B9F3BD-E50B-47D2-8A69-7F739234A357" : {
+"name" : "pin"
+}
+}
+},
+"77B93F80-0840-4E26-840C-393C4FDE21FD" : {
+"name" : "dashboard - desktop",
+"artboards" : {
+"D9958977-171D-4319-BF3F-6D0B1CBF0D27" : {
+"name" : "wsecommerce-S01E02"
+},
+"A235B8A6-B75F-4C3C-A2E8-082C2D6181C1" : {
+"name" : "dashboard"
+},
+"F5FFA1EF-4EC9-442B-BD1B-3BFB653A13E1" : {
+"name" : "wsecommerce-S01E02-infopanel"
+}
+}
+}
+}
 }
