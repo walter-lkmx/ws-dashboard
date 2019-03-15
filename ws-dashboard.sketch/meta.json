@@ -4,6 +4,9 @@
 "77B93F80-0840-4E26-840C-393C4FDE21FD" : {
 "name" : "dashboard - desktop",
 "artboards" : {
+"F5FFA1EF-4EC9-442B-BD1B-3BFB653A13E1" : {
+"name" : "wsecommerce-S01E02-infopanel"
+},
 "A235B8A6-B75F-4C3C-A2E8-082C2D6181C1" : {
 "name" : "dashboard"
 },
@@ -37,7 +40,7 @@
 ],
 "compatibilityVersion" : 99,
 "app" : "com.bohemiancoding.sketch3",
-"autosaved" : 1,
+"autosaved" : 0,
 "variant" : "NONAPPSTORE",
 "created" : {
 "build" : 72643,
