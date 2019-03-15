@@ -7,21 +7,20 @@
 "_class" : "style",
 "borders" : [
 {
-"thickness" : 1,
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-}
+},
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"thickness" : 1,
+"position" : 1
 }
 ],
-"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -44,6 +43,7 @@
 "isEnabled" : true
 }
 ],
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -64,7 +64,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "BG"
@@ -72,6 +72,8 @@
 {
 "do_objectID" : "B1F79B5D-387C-4E6A-A414-30D73AC22327",
 "value" : {
+"miterLimit" : 10,
+"endMarkerType" : 0,
 "startMarkerType" : 0,
 "windingRule" : 0,
 "_class" : "style",
@@ -92,9 +94,7 @@
 "noiseIndex" : 0,
 "isEnabled" : true
 }
-],
-"miterLimit" : 10,
-"endMarkerType" : 0
+]
 },
 "_class" : "sharedStyle",
 "name" : "blue-light"
@@ -102,6 +102,8 @@
 {
 "do_objectID" : "2D34091A-1C71-414F-9B6E-E582373A45B7",
 "value" : {
+"miterLimit" : 10,
+"endMarkerType" : 0,
 "startMarkerType" : 0,
 "windingRule" : 0,
 "_class" : "style",
@@ -122,9 +124,7 @@
 "noiseIndex" : 0,
 "isEnabled" : true
 }
-],
-"miterLimit" : 10,
-"endMarkerType" : 0
+]
 },
 "_class" : "sharedStyle",
 "name" : "yellow"
@@ -132,6 +132,8 @@
 {
 "do_objectID" : "3A8D9F72-E4B6-47AE-9C14-029B73656E2B",
 "value" : {
+"miterLimit" : 10,
+"endMarkerType" : 0,
 "startMarkerType" : 0,
 "windingRule" : 0,
 "_class" : "style",
@@ -152,9 +154,7 @@
 "noiseIndex" : 0,
 "isEnabled" : true
 }
-],
-"miterLimit" : 10,
-"endMarkerType" : 0
+]
 },
 "_class" : "sharedStyle",
 "name" : "pink"
@@ -165,21 +165,21 @@
 "_class" : "style",
 "borders" : [
 {
-"thickness" : 1,
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-}
+},
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"thickness" : 1,
+"position" : 1
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -200,7 +200,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "ws-purple"
@@ -211,21 +211,21 @@
 "_class" : "style",
 "borders" : [
 {
-"thickness" : 1,
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-}
+},
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"thickness" : 1,
+"position" : 1
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -246,7 +246,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "green"
@@ -257,21 +257,21 @@
 "_class" : "style",
 "borders" : [
 {
-"thickness" : 1,
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-}
+},
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"thickness" : 1,
+"position" : 1
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -292,7 +292,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "pink-light"
@@ -303,21 +303,21 @@
 "_class" : "style",
 "borders" : [
 {
-"thickness" : 1,
-"fillType" : 0,
-"_class" : "border",
-"isEnabled" : false,
-"position" : 1,
 "color" : {
 "red" : 0.59199999999999997,
 "_class" : "color",
 "alpha" : 1,
 "blue" : 0.59199999999999997,
 "green" : 0.59199999999999997
-}
+},
+"fillType" : 0,
+"_class" : "border",
+"isEnabled" : false,
+"thickness" : 1,
+"position" : 1
 }
 ],
-"miterLimit" : 10,
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -369,7 +369,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "blue gradient"
@@ -377,6 +377,8 @@
 {
 "do_objectID" : "945B7A2B-36B6-49AE-98E8-AFD18081D251",
 "value" : {
+"miterLimit" : 10,
+"endMarkerType" : 0,
 "startMarkerType" : 0,
 "windingRule" : 1,
 "_class" : "style",
@@ -428,9 +430,7 @@
 "noiseIndex" : 0,
 "isEnabled" : true
 }
-],
-"miterLimit" : 10,
-"endMarkerType" : 0
+]
 },
 "_class" : "sharedStyle",
 "name" : "green gradient"
@@ -439,7 +439,6 @@
 "do_objectID" : "56BD6CFD-9D3C-44ED-A51F-E28FFF78FD8C",
 "value" : {
 "_class" : "style",
-"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -502,6 +501,7 @@
 "isEnabled" : true
 }
 ],
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -522,7 +522,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/6"
@@ -531,7 +531,6 @@
 "do_objectID" : "98D53B85-0C7B-415A-A427-8CA367F3445C",
 "value" : {
 "_class" : "style",
-"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -594,6 +593,7 @@
 "isEnabled" : true
 }
 ],
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -614,7 +614,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/4"
@@ -623,7 +623,6 @@
 "do_objectID" : "D3929A30-2B6A-42D2-998A-36789BB1868F",
 "value" : {
 "_class" : "style",
-"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -686,6 +685,7 @@
 "isEnabled" : true
 }
 ],
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -706,7 +706,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/2"
@@ -715,7 +715,6 @@
 "do_objectID" : "BE00936A-3572-43AA-B705-CE3B20CEBF86",
 "value" : {
 "_class" : "style",
-"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -778,6 +777,7 @@
 "isEnabled" : true
 }
 ],
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -798,7 +798,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/3"
@@ -807,7 +807,6 @@
 "do_objectID" : "C1249C62-AE50-4F43-ADE6-82F6F2BF9C1E",
 "value" : {
 "_class" : "style",
-"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -870,6 +869,7 @@
 "isEnabled" : true
 }
 ],
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -890,7 +890,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/24"
@@ -899,7 +899,6 @@
 "do_objectID" : "533FF166-6607-4F08-A2B1-22882D67F7E9",
 "value" : {
 "_class" : "style",
-"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -962,6 +961,7 @@
 "isEnabled" : true
 }
 ],
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -982,7 +982,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/1"
@@ -991,7 +991,6 @@
 "do_objectID" : "CDDBBA45-388D-4DB1-83D5-3C81329C0E70",
 "value" : {
 "_class" : "style",
-"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -1054,6 +1053,7 @@
 "isEnabled" : true
 }
 ],
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -1074,7 +1074,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/8"
@@ -1083,7 +1083,6 @@
 "do_objectID" : "BFCB9317-7BBA-4817-91B9-1C639C87B42D",
 "value" : {
 "_class" : "style",
-"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -1146,6 +1145,7 @@
 "isEnabled" : true
 }
 ],
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -1166,7 +1166,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/9"
@@ -1175,7 +1175,6 @@
 "do_objectID" : "C3220A90-57D4-4F63-BFBB-55DD808DC9A3",
 "value" : {
 "_class" : "style",
-"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -1238,6 +1237,7 @@
 "isEnabled" : true
 }
 ],
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -1258,7 +1258,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/[object Object]"
@@ -1267,7 +1267,6 @@
 "do_objectID" : "CBF0EBD0-42F2-4D59-B240-0634B255300E",
 "value" : {
 "_class" : "style",
-"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -1330,6 +1329,7 @@
 "isEnabled" : true
 }
 ],
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -1350,7 +1350,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/16"
@@ -1359,7 +1359,6 @@
 "do_objectID" : "2347C85B-F1C5-4363-B64A-F2AA8511FB49",
 "value" : {
 "_class" : "style",
-"miterLimit" : 10,
 "shadows" : [
 {
 "_class" : "shadow",
@@ -1422,6 +1421,7 @@
 "isEnabled" : true
 }
 ],
+"endMarkerType" : 0,
 "fills" : [
 {
 "_class" : "fill",
@@ -1442,7 +1442,7 @@
 ],
 "startMarkerType" : 0,
 "windingRule" : 1,
-"endMarkerType" : 0
+"miterLimit" : 10
 },
 "_class" : "sharedStyle",
 "name" : "Elevation\/10"
